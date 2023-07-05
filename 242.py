@@ -42,7 +42,6 @@ If the value is 0 we could set a default number '0' or any number in secone vari
 
 """
 
-
 """
 Third method:
 class Solution:
